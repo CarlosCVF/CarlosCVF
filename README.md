@@ -36,5 +36,5 @@ Tenho passado os meus últimos anos imerso no mundo da tecnologia, buscando cons
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosCVF&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCVF&layout=compact&theme=dracula"/>
 </div>
-  
-</div>
+
+![Snake animation](https://github.com/CarlosCVF/CarlosCVF/blob/output/github-contribution-grid-snake.svg)
