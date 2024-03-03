@@ -38,7 +38,9 @@ Tenho passado os meus últimos anos imerso no mundo da tecnologia, buscando cons
 </div>
 
 <div> 
-  <a href="https://www.linkedin.com/in/carlos-carvalho-47375320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/carlos-carvalho-47375320b/" target="_blank">
+           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
  
    ![Snake animation](https://github.com/CarlosCVF/CarlosCVF/blob/output/github-contribution-grid-snake.svg)
  
